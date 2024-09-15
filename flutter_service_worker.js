@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "4da8fa34d741d4a8e362e2b0e6e537fd",
-"assets/AssetManifest.bin.json": "c1679bd6e13f5cfe6914849c788beb27",
-"assets/AssetManifest.json": "8a1806244e1b896afa744ef12b3e6092",
+const RESOURCES = {"assets/AssetManifest.bin": "cfe2fa4ee7154ff905f064225306b464",
+"assets/AssetManifest.bin.json": "f18f0b2d356dfd898ed156905f610d8e",
+"assets/AssetManifest.json": "0a50d841c24e1c0b9fe1bccb15e56c35",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "d993ed878f55d70db6b82f2403260293",
+"assets/fonts/MaterialIcons-Regular.otf": "703fa685a849190871e59c37ab362ecf",
 "assets/lib/assets/icons/loading.json": "a994421e16ff6e6d59d60a28ad40557e",
 "assets/lib/assets/icons/login.json": "43618579a9bba4bdee57a6a14df7b84b",
+"assets/lib/assets/icons/logo.jpg": "e3db541d99a54d45e94107eab9c1c55a",
 "assets/lib/assets/icons/succesfu.json": "05bda9abb52bc2bdbe5f8af9914a2d9c",
 "assets/lib/assets/images/churchpodium.jpg": "6846bf670c1e90f6d0278817c2ab0d66",
 "assets/lib/assets/images/event1.jpg": "8424ab82176a8f693d126197e3fd3fe8",
@@ -35,9 +36,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "4da8fa34d741d4a8e362e2b0e6e537fd
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7d2addf6d72cce8c8b8164f148e2feba",
-"/": "7d2addf6d72cce8c8b8164f148e2feba",
-"main.dart.js": "507f324e66b1a3cbf35d1d3fa22caf46",
+"index.html": "b81ed8f284552e93334b7171ac27fe53",
+"/": "b81ed8f284552e93334b7171ac27fe53",
+"main.dart.js": "c227c917569b2fcd25b6b35d1315b60b",
 "manifest.json": "658491c9b884101b39442673d362962f",
 "version.json": "67da9d43fa98cf883e4b69aefe65d60a"};
 // The application shell files that are downloaded before a service worker can
