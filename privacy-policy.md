@@ -1,12 +1,6 @@
-Here is a simple example of a privacy policy for your church app that you can customize and use. Once you have finalized your privacy policy, follow the steps to upload it to GitHub and generate a URL for your Google Play Console.
-
----
-
-### Sample Privacy Policy for Redeemed Gospel Athi River Church App
-
 **Privacy Policy**
 
-Redeemed Gospel Athi River built the Church App to provide users with sermons, church developments, and information on tithes and offerings. This app is intended for members and individuals interested in staying informed about church activities. This page is used to inform visitors about our policies regarding the collection, use, and disclosure of Personal Information.
+Redeemed Gospel Athi River built the Church App to provide users with sermons, church news, and information on tithes and offerings. This app is designed for members and individuals interested in church activities. This page explains our policies on the collection, use, and disclosure of Personal Information.
 
 #### Information We Collect
 1. **Personal Information**: To enable a personalized experience, we may collect certain information such as your name, email address, phone number, and other details required for user authentication and app functionality.
@@ -33,23 +27,6 @@ We may update our Privacy Policy from time to time. Thus, we advise you to revie
 
 #### Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
-- Email: [Your Church's Email Address]
-- Phone: [Your Church's Phone Number]
+- Email: fkdevelopers254@gmail.com
+- Phone: 0794155449
 
----
-
-### Steps to Upload on GitHub and Get the URL
-
-1. **Sign in to GitHub** and create a new public repository (e.g., `church-privacy-policy`).
-2. **Create a new file** named `privacy-policy.md` in the repository.
-3. **Paste the privacy policy** text into the file.
-4. **Commit the file** and copy the URL of the file, e.g., `https://github.com/YourUsername/church-privacy-policy/blob/main/privacy-policy.md`.
-5. Use the raw version URL if preferred: `https://raw.githubusercontent.com/YourUsername/church-privacy-policy/main/privacy-policy.md`.
-
-### Enter the URL in Google Play Console
-- Go to your app’s dashboard in the Play Console.
-- Navigate to the **Privacy Policy** section.
-- Paste the URL in the **Privacy policy URL** field.
-- Click **Save**.
-
-This URL will be linked in your app's store listing, ensuring compliance with Google Play’s policies.
